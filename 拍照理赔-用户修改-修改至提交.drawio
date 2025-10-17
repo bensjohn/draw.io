@@ -1,9 +1,50 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.7">
   <diagram name="第 1 页" id="vnDRVBkJC_8fptZvE_03">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-26" target="fgCw821Jq98GJ18Sdg1c-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-26" value="弹窗校验" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="-16" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-30" target="fgCw821Jq98GJ18Sdg1c-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-30" value="修改案件状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="118" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-32" target="fgCw821Jq98GJ18Sdg1c-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-32" value="开始: 用户点击修改" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="-156" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-34" target="fgCw821Jq98GJ18Sdg1c-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-34" value="修改案件状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="252" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-36" target="fgCw821Jq98GJ18Sdg1c-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-36" value="个人信息修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="386" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fgCw821Jq98GJ18Sdg1c-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392" y="654" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-38" value="图片修改" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="292.5" y="520" width="199" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="fgCw821Jq98GJ18Sdg1c-42" value="修改案件状态&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;提交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="332" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
