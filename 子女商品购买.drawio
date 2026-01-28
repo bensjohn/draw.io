@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
+  <diagram name="第 1 页" id="5Id0vHpQGChdDqVxA55K">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SkbjIRzg4Kvmn8UQgwI_-1" parent="1" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" value="子女商品购买" vertex="1">
+          <mxGeometry height="240" width="1020" x="50" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkbjIRzg4Kvmn8UQgwI_-2" parent="SkbjIRzg4Kvmn8UQgwI_-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="ICP" vertex="1">
+          <mxGeometry height="120" width="1000" x="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SkbjIRzg4Kvmn8UQgwI_-3" parent="SkbjIRzg4Kvmn8UQgwI_-1" style="swimlane;startSize=20;horizontal=0;html=1;" value="弹福" vertex="1">
+          <mxGeometry height="120" width="1000" x="20" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
