@@ -1,0 +1,183 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.3.6">
+  <diagram name="第 1 页" id="ZE6DWHyT53c_-elREPEq">
+    <mxGraphModel dx="1678" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6tZfSD313XOqhY-bsTUm-20" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-33" connectable="0" parent="6tZfSD313XOqhY-bsTUm-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提交" vertex="1">
+          <mxGeometry relative="1" x="-0.3" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="开始" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-49" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-48" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-19" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="身份证/&lt;br&gt;户口本" vertex="1">
+          <mxGeometry height="80" width="80" x="210" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-31" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-32" connectable="0" parent="6tZfSD313XOqhY-bsTUm-31" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="不通过" vertex="1">
+          <mxGeometry relative="1" x="-0.275" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-35" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-51" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-50" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="身份证号码校验" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-55" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="出生日期/性别校验" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-73" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-72" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="社保地校验" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-75" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="999.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-72" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;b&gt;证件号+证件类型&lt;br&gt;查找家属信息&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-83" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-82" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-78" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="校验姓名/出生日期/&lt;br&gt;性别是否一致" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-85" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-84" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-82" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="校验该员工是否添加过其他人员关系" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="1140" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-84" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="校验是否为弹福窗口期员工" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-88" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-92" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-89" connectable="0" parent="6tZfSD313XOqhY-bsTUm-88" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="提交" vertex="1">
+          <mxGeometry relative="1" x="-0.3" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-90" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="开始" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-91" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-94" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-92" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="身份证/&lt;br&gt;户口本" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-93" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-96" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-94" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="身份证号码校验" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-95" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-96" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="出生日期/性别校验" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-107" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-106" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-98" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="社保地校验" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-99" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1159.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="&lt;b&gt;证件号+证件类型&lt;br&gt;查找家属信息&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-101" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-104" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-102" parent="1" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="校验姓名/出生日期/&lt;br&gt;性别是否一致" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-103" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-105" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-104" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="校验该员工是否添加过其他人员关系" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1300" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="校验是否为弹福窗口期员工" vertex="1">
+          <mxGeometry height="60" width="120" x="480" y="1440" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-109" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-110" connectable="0" parent="6tZfSD313XOqhY-bsTUm-109" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.163" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-112" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-111" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-113" connectable="0" parent="6tZfSD313XOqhY-bsTUm-112" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.0722" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-106" parent="1" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="身份证/&lt;br&gt;户口本" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-117" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="6tZfSD313XOqhY-bsTUm-116" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-111" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="&lt;b&gt;证件号&lt;br&gt;查找家属信息&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-119" edge="1" parent="1" source="6tZfSD313XOqhY-bsTUm-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" target="6tZfSD313XOqhY-bsTUm-102" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="1196" />
+            </Array>
+            <mxPoint x="750" y="1149.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6tZfSD313XOqhY-bsTUm-116" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;" value="校验证件类型是否一致" vertex="1">
+          <mxGeometry height="60" width="120" x="690" y="1030" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
